@@ -2,7 +2,7 @@
 
 ## Sniffing Around
 
-- <a rel="me" href="https://mastodon.social/@mudasobwa">🐘</a> https://mastodon.social/@mudasobwa
+- [🐘](https://mastodon.social/@mudasobwa | rel="me")
 - [📒](https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity) https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity
 - [✍](https://rocket-science.ru) https://rocket-science.ru
 - [📫](mailto:am@mudasobwa.ru) mailto:am@mudasobwa.ru
