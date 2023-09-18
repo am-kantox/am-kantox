@@ -2,13 +2,13 @@
 
 ## Sniffing Around
 
-- 🐦 https://twitter.com/mudasobwa
-- 📒 https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity
-- ✍ https://rocket-science.ru
-- 📫 mailto:am@mudasobwa.ru
+- <a rel="me" href="https://mastodon.social/@mudasobwa">🐘</a> https://mastodon.social/@mudasobwa
+- [📒](https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity) https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity
+- [✍](https://rocket-science.ru) https://rocket-science.ru
+- [📫](mailto:am@mudasobwa.ru) mailto:am@mudasobwa.ru
 - 🏢 @kantox
 - 🗓️ October, 0 (aka September, 30)
-- ⚡ I’m still more functional than object oriented
+- ⚡ I’m still more functional than object-oriented
 
 ## The Summing Up
 
