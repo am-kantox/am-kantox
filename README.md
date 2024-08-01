@@ -6,7 +6,6 @@
 - [📒](https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity) https://stackoverflow.com/users/2035262/aleksei-matiushkin?tab=topactivity
 - [✍](https://rocket-science.ru) https://rocket-science.ru
 - [📫](mailto:am@ambment.cat) mailto:am@ambment.cat
-- 🏢 @kantox
 - 🗓️ October, 0 (aka September, 30)
 - ⚡ I’m still more functional than object-oriented
 
